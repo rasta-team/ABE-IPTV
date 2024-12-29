@@ -1,0 +1,10 @@
+#EXTM3U 
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://vod.pondan.workers.dev/dewanonton.json , https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php  ,  https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1 , https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0 , https://fahmikacak.pages.dev/HBOGO%20Asia, https://raw.githubusercontent.com/ayahdee/-/3f973b02dab4a5c39916996be098073051426886/%E2%88%9A%E2%97%8Bd%C2%A7%C2%A9%EF%B8%8F, https://mantop.worst.workers.dev/dramabox.html, https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod, https://hangit69.blogspot.com/p/aotg-movie.html, https://hangit69.blogspot.com/p/movie-request-vod.html, https://hangit69.blogspot.com/p/perfect-vod.html "
+
+
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://perfecttv.net/logo/ria.png" ,119 Ria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp.perfecttv.net/ria.mpd
