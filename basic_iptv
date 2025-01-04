@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" refresh="1440"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440"
 
 billed-msg="1 ID 1 DEVICE | SUBSCRIPTION : FREE"
 
